@@ -1,2 +1,1 @@
-#!/bin/bash
-This is the READ.md
+where am i
